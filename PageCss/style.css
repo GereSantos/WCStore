@@ -1,0 +1,127 @@
+.Navbar{
+    background-color:black;
+    margin-top: -1%;
+    margin-left: -1%;
+    width: 102%;
+    height: 80px;
+    position:fixed;
+}
+
+
+.letterMenu{
+    margin-top: 50px;
+    color:white;
+    display: inline;
+    padding-left: 10px;
+}
+
+.menu{
+ cursor: pointer;
+ height: 50px;
+ width: 700px;;
+ margin-left: 32%;
+ margin-top: 38px;
+}
+
+.message{
+    border: solid;
+    width: 300px;
+    margin-top: 20px;;
+    margin-left: 495px;
+}
+
+.cupons{
+    background-color: black;
+    border: solid;
+    border-color: white;
+    color:white;
+    height: 70px;
+    width: 280px;
+    margin-top: 2%;
+    margin-left: 38.8%;
+}
+
+
+.freelogi{
+    background-color: black;
+    border: solid;
+    border-color: white;
+    color:white;
+    height: 70px;
+    width: 230px;
+    margin-top: -5.7%;
+    margin-left: 21.3%;
+}
+
+.lanyear{
+    background-color: black;
+    border: solid;
+    border-color: white;
+    color:white;
+    height: 69.5px;
+    width: 230px;
+    margin-top: -77.0px;
+    margin-left: 58.5%;
+}
+
+.h2title{
+    padding-left: 20px;
+}
+
+.h2title1{
+    padding-left: 50px;
+}
+
+.h2title2{
+    padding-left: 11px;
+}
+
+.fpageprodu{
+    height: 600px;
+    width: 950px;
+    border-color: black;
+    border: solid;
+    border-radius: 5px;
+    margin-top: 3%;
+    margin-left: 13%;
+}
+/* Class of Carrosel */
+.galery {
+    width: 1352px;
+    height: 300px;
+    background-color: rgb(8, 8, 8);
+    overflow: hidden;
+    margin-left: -12px;
+    
+}
+
+.galery .fotos {
+    width: 150%;
+    animation-name: animacao;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+}
+
+.galery .fotos img {
+    width: 19.9%;
+}
+
+/* Class of Carrosel */
+
+/* Animation of Carrosel*/
+
+@keyframes animacao {
+    0% { margin-left: 0; }
+    20% { margin-left: 0; }
+    25% { margin-left: -15%; }
+    45% { margin-left: 0; }
+    50% {  margin-left: -15%; }
+    70% { margin-left: 0; }
+    75% {  margin-left: -15%; }
+    95% { margin-left: 0; }
+    100% {  margin-left: -15%;  }
+}
+
+
+
+
