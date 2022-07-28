@@ -1,0 +1,115 @@
+.Navbar{
+    background-color:black;
+    margin-top: -1%;
+    margin-left: -1%;
+    width: 102%;
+    height: 80px;
+    position:fixed;
+}
+
+
+.letterMenu{
+    margin-top: -100px;
+    position: relative;
+    top: -140%;
+    margin-left: 2%;
+    color:white;
+    display: inline;
+    padding-left: 12px;
+    font-size: 135%;
+    text-decoration: none;
+}
+
+.menu{
+ cursor: pointer;
+ height: 50px;
+ width: 700px;;
+ margin-left: 32%;
+ margin-top: 34px;
+}
+
+.message{
+    border: solid;
+    width: 300px;
+    margin-top: 20px;;
+    margin-left: 593px;
+}
+
+.cupons{
+    background-color: black;
+    border: solid;
+    border-color: white;
+    color:white;
+    height: 70px;
+    width: 280px;
+    margin-top: 1%;
+    margin-left: 40.5%;
+}
+
+
+.freelogi{
+    background-color: black;
+    border: solid;
+    border-color: white;
+    color:white;
+    height: 70px;
+    width: 230px;
+    margin-top: -5.2%;
+    margin-left: 22.8%;
+}
+
+.lanyear{
+    background-color: black;
+    border: solid;
+    border-color: white;
+    color:white;
+    height: 69.5px;
+    width: 230px;
+    margin-top: -77.0px;
+    margin-left: 61.5%;
+}
+
+.h2title0{
+    padding-left: 16px;
+}
+
+.h2title{
+    padding-left: 30px;
+}
+
+.h2title1{
+    padding-left: 50px;
+}
+
+.h2title2{
+    padding-left: 11px;
+}
+
+.fpageprodu{
+    height: 660px;
+    width: 1140px;
+    border-color: black;
+    border: solid;
+    border-radius: 5px;
+    margin-top: 9%;
+    margin-left: 13%;
+}
+.iconlogo{
+    position: relative;
+    left: 435px;
+    top: -10px;
+    height:40px;
+    width: 40px;
+    margin-top: -110px;
+    margin-right: 750px;
+}
+
+
+
+.iconmarket{
+    height: 40px;
+    margin-left: 1445px;
+    margin-top: 2%;;
+}
+
+/* Hover Zoom */
